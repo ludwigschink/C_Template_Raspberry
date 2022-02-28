@@ -1,6 +1,6 @@
-# Raspberry_C_Template README.md 0.1
+# Raspberry_C_Template README.md 0.2
 
-This is a suggestion for a simple Geany C++ template for raspberry Pi (espacially 3B+).
+This is a suggestion for a simple Geany C template for raspberry Pi (espacially 3B+).
 
 ## Needed Packages
 
